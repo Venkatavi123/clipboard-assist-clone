@@ -1,0 +1,3 @@
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="Quick Insert English" android:imeSubtypeLocale="en_IN" android:imeSubtypeMode="keyboard" />
+</input-method>
